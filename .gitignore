@@ -1,2 +1,7 @@
-main_torch.ipynb
 creditcard.csv
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+catboost_info/
+optuna.db
